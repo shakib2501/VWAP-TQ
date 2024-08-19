@@ -6,7 +6,7 @@ This project processes NASDAQ ITCH data and calculates the hourly VWAP (Volume W
 
 ### 1. Input File
 Place the NASDAQ ITCH data file in the `datafile` directory located at the project root: ./datafile/01302019.NASDAQ_ITCH50.gz
-```console
+```commandline
 ../datafile/01302019.NASDAQ_ITCH50.gz
 ```
 
